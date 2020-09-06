@@ -2,7 +2,7 @@
 
 For the structure, we will create a responsive website for Danki Code. This is the layout 
 
-![layout](https://github.com/rafaatasso/DankiCode_Project01_LandingPageDankiCode/blob/master/public/images/layout.png?raw=true)
+![layout](https://github.com/rafaatasso/DankiCode_Project03_HomeDankiCodeSite/blob/master/public/images/layout.png?raw=true)
 
 To see te whole project, [here is the Danki Code course page](https://cursos.dankicode.com/campus/curso-front-end-completo/projeto-3-estudando-layout).
 
